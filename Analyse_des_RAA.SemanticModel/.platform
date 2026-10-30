@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Analyse_des_RAA"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "584eab00-833b-472a-b10f-c4b3142f81a7"
+  }
+}
